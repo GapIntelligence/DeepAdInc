@@ -1,3 +1,6 @@
+> **Contribution flow:** `feature/* → staging → main`. Open normal PRs against `staging`.
+> See the [contribution and release guide](.github/CONTRIBUTING.md).
+
 # Deep.ad
 Welcome to our github 🤘.
 - Our software scans digital media for in-content brands, products, and advertising. 
