@@ -1,10 +1,7 @@
-# Deep.ad
-Welcome to our github 🤘.
-- Our software scans digital media for in-content brands, products, and advertising. 
-- Example data we annotate and extract from:
-  - 🎥:  .mp4, .mov, .wmv, .webm, .avi, .avchd, .flv, .mp3, .wav, .aif, .m3u,.wma, .flac and more.
-  - 📸:  .jpeg, .jpg, .png, .gif, .bmp, .tiff, .heic, .webp, .pdf, .eps, .ps, .docx, .xls, .xlsx, .csv, .txt, and more.
-  - 🖥️:  Hyperlinks to social media ads, user-generated content, public images, etc.
-- Hashtags:  Computer Vision, OCR, Logo Recognition, Brand Identification, Pricing Intelligence, Media Monitoring, Market Research, Competitive Intelligence
-- Learn more:  https://www.deep.ad
-- Questions?  info@deep.ad
+# Deep.ad is now part of OpenBrand
+
+**[Visit OpenBrand on GitHub →](https://github.com/GapIntelligence)**
+
+Deep.ad's work in brand recognition and advertising intelligence is now part of OpenBrand. For current company information, products, and contact options, visit **[openbrand.com](https://openbrand.com)**.
+
+This page is retained so existing Deep.ad links continue to lead visitors to the current organization.
